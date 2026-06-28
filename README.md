@@ -1,7 +1,7 @@
 #Multi-hop Knowledge Graph Reasoing 
 
 
-PyTorch implementation code for the PLM4MR model.  
+PyTorch implementation code for the PTM4MR model.  
 
  
 
